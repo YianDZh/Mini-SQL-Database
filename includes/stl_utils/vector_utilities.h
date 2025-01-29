@@ -1,0 +1,4 @@
+#ifndef VECTOR_UTILITIES_H_
+#define VECTOR_UTILITIES_H_
+
+#endif // VECTOR_UTILITIES_H_
